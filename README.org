@@ -1,5 +1,5 @@
 #+TITLE:Chibi Theme
 A chibi theme for [[https://docs.xfce.org/panel-plugins/xfce4-eyes-plugin/start][xfce eyes]].
 There's two possible pupil sizes.
-Screenshot:
+* Screenshot:
 [[./ss.png]]
